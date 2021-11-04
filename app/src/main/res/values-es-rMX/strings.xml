@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Puntuación de Baloncesto</string>
+    <string name="app_local">Local</string>
+    <string name="app_visitor">Visitante</string>
+    <string name="app_tied">¡Empate! 😕</string>
+</resources>

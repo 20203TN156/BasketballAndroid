@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Basketball Score</string>
+    <string name="app_local">Local</string>
+    <string name="app_visitor">Visitor</string>
+    <string name="app_tied">Tied teams! 😕</string>
+</resources>
