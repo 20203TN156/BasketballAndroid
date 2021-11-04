@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Rabah/AndroidStudioProjects/BasketballScore/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Rabah/AndroidStudioProjects/BasketballScore/app/src/main/res/layout/activity_finished.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/Rabah/AndroidStudioProjects/BasketballScore/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
@@ -12,5 +13,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
   </component>
 </project>
