@@ -3,4 +3,7 @@
     <string name="app_local">Local</string>
     <string name="app_visitor">Visitor</string>
     <string name="app_tied">Tied teams! 😕</string>
+    <string name="app_tittle">Local - Visitor</string>
+    <string name="app_local_victory">Local wins!</string>
+    <string name="app_visitor_victory">Visitor wins!</string>
 </resources>

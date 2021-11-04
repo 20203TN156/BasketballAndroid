@@ -3,5 +3,8 @@
     <string name="app_name">Puntuación de Baloncesto</string>
     <string name="app_local">Local</string>
     <string name="app_visitor">Visitante</string>
-    <string name="app_tied">¡Empate! 😕</string>
+    <string name="app_tied">¡Fue un empate! 😕</string>
+    <string name="app_tittle">Local - Visitante</string>
+    <string name="app_local_victory">¡Ganan los locales!</string>
+    <string name="app_visitor_victory">¡Ganan los visitantes!</string>
 </resources>

@@ -1,5 +1,6 @@
 package gms.utez.basketballscore
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -62,6 +63,16 @@ class MainActivity : AppCompatActivity() {
         btnReinicio.setOnClickListener{
             pointsLocal.text = "0"
             pointsVisitor.text = "0"
+            pointsLocalX = 0
+            pointsVisitorX = 0
+        }
+
+        btnFinish.setOnClickListener {
+            val i = Intent(this, FinishedActivity::class.java).apply {
+                putExtra("pLocal", pointsLocalX.toString())
+                putExtra("pVisitor", pointsVisitorX.toString())
+            }
+            startActivity(i)
         }
     }
 }
